@@ -1,0 +1,9 @@
+tensorflow-macos>=2.10.0
+tensorflow-metal>=0.7.0
+keras>=2.12.0
+imutils==0.5.3
+numpy>=1.21.0
+opencv-python>=4.5.0
+matplotlib>=3.4.0
+argparse==1.1
+scipy>=1.7.0
